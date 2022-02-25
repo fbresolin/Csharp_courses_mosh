@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\bin\Debug\net6.0\Classes.exe
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\bin\Debug\net6.0\Classes.deps.json
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\bin\Debug\net6.0\Classes.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\bin\Debug\net6.0\ref\Classes.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\bin\Debug\net6.0\Classes.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\ref\Classes.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\Classes\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache

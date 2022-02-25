@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\bin\Debug\PlutoCF.exe.config
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\bin\Debug\PlutoCF.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\bin\Debug\PlutoCF.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\bin\Debug\EntityFramework.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\bin\Debug\EntityFramework.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.csproj.SuggestedBindingRedirects.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.csproj.CopyComplete
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.Migrations.InitialModel.resources
+D:\Users\breso\Documents\mosh_course\EntityFramework\PlutoCF\PlutoCF\obj\Debug\PlutoCF.csproj.GenerateResource.cache

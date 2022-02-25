@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\Pluto.mdf
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\Pluto_log.ldf
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\DbFirst.exe.config
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\DbFirst.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\DbFirst.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\EntityFramework.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\EntityFramework.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.SuggestedBindingRedirects.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CopyComplete
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\obj\Debug\DbFirst.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\Pluto\DbFirst\DbFirst\obj\Debug\DbFirst.pdb

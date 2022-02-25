@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VidzyModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Byte" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Videos1" Relationship="VidzyModel.FK_Videos_Genres1" FromRole="Genre" ToRole="Video" />
+  </EntityType>
+  <EntityType Name="Video">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ReleaseDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="GenreId" Type="Byte" Nullable="false" />
+    <NavigationProperty Name="Genre" Relationship="VidzyModel.FK_Videos_Genres1" FromRole="Video" ToRole="Genre" />
+    <Property Name="ClassificationId" Type="Byte" Nullable="false" />
+    <NavigationProperty Name="Classification" Relationship="VidzyModel.FK_Videos_Classification" FromRole="Video" ToRole="Classification" />
+  </EntityType>
+  <EntityContainer Name="VidzyDbContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Genres" EntityType="Self.Genre" />
+    <EntitySet Name="Videos" EntityType="Self.Video" />
+    <FunctionImport Name="AddVideo">
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="ReleaseDate" Mode="In" Type="DateTime" />
+      <Parameter Name="Genre" Mode="In" Type="String" />
+      <Parameter Name="Classification" Mode="In" Type="String" />
+    </FunctionImport>
+    <AssociationSet Name="FK_Videos_Genres1" Association="VidzyModel.FK_Videos_Genres1">
+      <End Role="Genre" EntitySet="Genres" />
+      <End Role="Video" EntitySet="Videos" />
+    </AssociationSet>
+    <EntitySet Name="Classifications" EntityType="VidzyModel.Classification" />
+    <AssociationSet Name="FK_Videos_Classification" Association="VidzyModel.FK_Videos_Classification">
+      <End Role="Classification" EntitySet="Classifications" />
+      <End Role="Video" EntitySet="Videos" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Videos_Genres1">
+    <End Type="VidzyModel.Genre" Role="Genre" Multiplicity="1" />
+    <End Type="VidzyModel.Video" Role="Video" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Video">
+        <PropertyRef Name="GenreId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Classification">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Byte" Nullable="false" />
+    <NavigationProperty Name="Videos" Relationship="VidzyModel.FK_Videos_Classification" FromRole="Classification" ToRole="Video" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_Videos_Classification">
+    <End Type="VidzyModel.Classification" Role="Classification" Multiplicity="1" />
+    <End Type="VidzyModel.Video" Role="Video" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Classification">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Video">
+        <PropertyRef Name="ClassificationId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.exe
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache

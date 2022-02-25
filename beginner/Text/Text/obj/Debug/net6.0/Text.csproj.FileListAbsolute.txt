@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\bin\Debug\net6.0\Text.exe
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\bin\Debug\net6.0\Text.deps.json
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\bin\Debug\net6.0\Text.runtimeconfig.json
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\bin\Debug\net6.0\Text.dll
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\bin\Debug\net6.0\ref\Text.dll
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\bin\Debug\net6.0\Text.pdb
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.AssemblyInfo.cs
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.dll
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\ref\Text.dll
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.pdb
+D:\Users\breso\Documents\mosh_course\beginner\Text\Text\obj\Debug\net6.0\Text.genruntimeconfig.cache

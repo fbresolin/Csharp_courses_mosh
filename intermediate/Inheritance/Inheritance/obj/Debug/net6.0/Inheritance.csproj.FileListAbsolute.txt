@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\bin\Debug\net6.0\ref\Inheritance.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\bin\Debug\Vidzy.exe.config
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\bin\Debug\Vidzy.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\bin\Debug\Vidzy.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\bin\Debug\EntityFramework.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\bin\Debug\EntityFramework.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.SuggestedBindingRedirects.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\obj\Debug\Vidzy.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\Vidzy\Vidzy\obj\Debug\Vidzy.pdb

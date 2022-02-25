@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\bin\Debug\net6.0\ref\Arrays.dll
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\Users\breso\Documents\mosh_course\beginner\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache

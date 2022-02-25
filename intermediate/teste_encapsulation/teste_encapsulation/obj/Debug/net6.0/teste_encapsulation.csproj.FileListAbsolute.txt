@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\bin\Debug\net6.0\teste_encapsulation.exe
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\bin\Debug\net6.0\teste_encapsulation.deps.json
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\bin\Debug\net6.0\teste_encapsulation.runtimeconfig.json
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\bin\Debug\net6.0\teste_encapsulation.dll
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\bin\Debug\net6.0\ref\teste_encapsulation.dll
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\bin\Debug\net6.0\teste_encapsulation.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.AssemblyInfo.cs
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.dll
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\ref\teste_encapsulation.dll
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.pdb
+D:\Users\breso\Documents\mosh_course\intermediate\teste_encapsulation\teste_encapsulation\obj\Debug\net6.0\teste_encapsulation.genruntimeconfig.cache

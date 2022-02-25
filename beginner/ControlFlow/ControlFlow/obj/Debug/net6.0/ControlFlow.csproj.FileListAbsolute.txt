@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.exe
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.deps.json
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.runtimeconfig.json
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.dll
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\bin\Debug\net6.0\ref\ControlFlow.dll
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.pdb
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfo.cs
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.dll
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
+D:\Users\breso\Documents\mosh_course\beginner\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache
