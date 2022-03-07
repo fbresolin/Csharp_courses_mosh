@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42FAACD0-4EC4-426E-9920-C38343480A05}</ProjectGuid>
+    <ProjectGuid>{1B6B07C5-4552-421C-A14E-D4ABC32732FA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CodeFirstExistingDatabase</RootNamespace>
     <AssemblyName>CodeFirstExistingDatabase</AssemblyName>
@@ -12,6 +13,8 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,8 +36,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,11 +55,90 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationDbContext.cs" />
+    <Compile Include="Author.cs" />
+    <Compile Include="Course.cs" />
+    <Compile Include="Migrations\202202251424085_MigratedFromCodeFirstExistingDatabase.cs" />
+    <Compile Include="Migrations\202202251424085_MigratedFromCodeFirstExistingDatabase.designer.cs">
+      <DependentUpon>202202251424085_MigratedFromCodeFirstExistingDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202251817145_AddedCategoriesTable.cs" />
+    <Compile Include="Migrations\202202251817145_AddedCategoriesTable.designer.cs">
+      <DependentUpon>202202251817145_AddedCategoriesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202251846328_AddedCategoryColumnToCoursesTable.cs" />
+    <Compile Include="Migrations\202202251846328_AddedCategoryColumnToCoursesTable.designer.cs">
+      <DependentUpon>202202251846328_AddedCategoryColumnToCoursesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202251906242_AddedPublishedDateInCoursesTable.cs" />
+    <Compile Include="Migrations\202202251906242_AddedPublishedDateInCoursesTable.designer.cs">
+      <DependentUpon>202202251906242_AddedPublishedDateInCoursesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202251908359_RenameTitleToNameInCoursesTable.cs" />
+    <Compile Include="Migrations\202202251908359_RenameTitleToNameInCoursesTable.designer.cs">
+      <DependentUpon>202202251908359_RenameTitleToNameInCoursesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202251923475_DeleteColumnDatePublishedFromCoursesTable.cs" />
+    <Compile Include="Migrations\202202251923475_DeleteColumnDatePublishedFromCoursesTable.designer.cs">
+      <DependentUpon>202202251923475_DeleteColumnDatePublishedFromCoursesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202251943385_DeleteCategoryColumFromCoursesTable.cs" />
+    <Compile Include="Migrations\202202251943385_DeleteCategoryColumFromCoursesTable.designer.cs">
+      <DependentUpon>202202251943385_DeleteCategoryColumFromCoursesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202251948319_DeletedCategoriesTable.cs" />
+    <Compile Include="Migrations\202202251948319_DeletedCategoriesTable.designer.cs">
+      <DependentUpon>202202251948319_DeletedCategoriesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202252021095_PopulateCategoriesTable.cs" />
+    <Compile Include="Migrations\202202252021095_PopulateCategoriesTable.designer.cs">
+      <DependentUpon>202202252021095_PopulateCategoriesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tags.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202202251424085_MigratedFromCodeFirstExistingDatabase.resx">
+      <DependentUpon>202202251424085_MigratedFromCodeFirstExistingDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202251817145_AddedCategoriesTable.resx">
+      <DependentUpon>202202251817145_AddedCategoriesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202251846328_AddedCategoryColumnToCoursesTable.resx">
+      <DependentUpon>202202251846328_AddedCategoryColumnToCoursesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202251906242_AddedPublishedDateInCoursesTable.resx">
+      <DependentUpon>202202251906242_AddedPublishedDateInCoursesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202251908359_RenameTitleToNameInCoursesTable.resx">
+      <DependentUpon>202202251908359_RenameTitleToNameInCoursesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202251923475_DeleteColumnDatePublishedFromCoursesTable.resx">
+      <DependentUpon>202202251923475_DeleteColumnDatePublishedFromCoursesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202251943385_DeleteCategoryColumFromCoursesTable.resx">
+      <DependentUpon>202202251943385_DeleteCategoryColumFromCoursesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202251948319_DeletedCategoriesTable.resx">
+      <DependentUpon>202202251948319_DeletedCategoriesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202252021095_PopulateCategoriesTable.resx">
+      <DependentUpon>202202252021095_PopulateCategoriesTable.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
 </Project>

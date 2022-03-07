@@ -1,0 +1,39 @@
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\Queries.exe.config
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\Queries.exe
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\Queries.pdb
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.exe
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.pdb
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.Migrations.InitialMigration.resources
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\bin\Debug\Queries.exe.config
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.exe
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.pdb
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\bin\Debug\Queries.exe
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\bin\Debug\Queries.pdb
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\bin\Debug\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\bin\Debug\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.Migrations.InitialMigration.resources
+\\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.csproj.GenerateResource.Cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\bin\Debug\Queries.exe.config
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\bin\Debug\Queries.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\bin\Debug\Queries.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.SuggestedBindingRedirects.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.Migrations.InitialMigration.resources
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.GenerateResource.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.CopyComplete
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\Queries\Queries\obj\Debug\Queries.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c91f9d5-229b-4f0d-88e9-a4dd4edf5657": {
+      "ProjectGuid": "5c91f9d5-229b-4f0d-88e9-a4dd4edf5657",
+      "DisplayName": "VidzyCF",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

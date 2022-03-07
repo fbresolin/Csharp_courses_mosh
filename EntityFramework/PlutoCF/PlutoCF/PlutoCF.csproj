@@ -53,13 +53,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationDbContext.cs" />
+    <Compile Include="Author.cs" />
+    <Compile Include="Course.cs" />
+    <Compile Include="CourseLevel.cs" />
     <Compile Include="Migrations\202202251251185_InitialModel.cs" />
     <Compile Include="Migrations\202202251251185_InitialModel.designer.cs">
       <DependentUpon>202202251251185_InitialModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203011851191_foo.cs" />
+    <Compile Include="Migrations\202203011851191_foo.designer.cs">
+      <DependentUpon>202203011851191_foo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tag.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -68,6 +77,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202202251251185_InitialModel.resx">
       <DependentUpon>202202251251185_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203011851191_foo.resx">
+      <DependentUpon>202203011851191_foo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

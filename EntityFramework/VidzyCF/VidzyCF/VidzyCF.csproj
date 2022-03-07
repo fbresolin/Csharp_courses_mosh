@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C91F9D5-229B-4F0D-88E9-A4DD4EDF5657}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>VidzyCF</RootNamespace>
+    <AssemblyName>VidzyCF</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationDbContext.cs" />
+    <Compile Include="Classification.cs" />
+    <Compile Include="EntitiesConfigurations\VideoConfiguration.cs" />
+    <Compile Include="Genre.cs" />
+    <Compile Include="Migrations\202202261413533_AddGenresAndVideosTables.cs" />
+    <Compile Include="Migrations\202202261413533_AddGenresAndVideosTables.designer.cs">
+      <DependentUpon>202202261413533_AddGenresAndVideosTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202261507391_PopulatingGenresTable.cs" />
+    <Compile Include="Migrations\202202261507391_PopulatingGenresTable.designer.cs">
+      <DependentUpon>202202261507391_PopulatingGenresTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202261710466_AddVideosData.cs" />
+    <Compile Include="Migrations\202202261710466_AddVideosData.designer.cs">
+      <DependentUpon>202202261710466_AddVideosData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202261719104_PopulateVideoGenresTable.cs" />
+    <Compile Include="Migrations\202202261719104_PopulateVideoGenresTable.designer.cs">
+      <DependentUpon>202202261719104_PopulateVideoGenresTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202261724203_EditedVideosOneToManyRelationToGenres.cs" />
+    <Compile Include="Migrations\202202261724203_EditedVideosOneToManyRelationToGenres.designer.cs">
+      <DependentUpon>202202261724203_EditedVideosOneToManyRelationToGenres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202261729326_AddedClassificationColumnToVideosTable.cs" />
+    <Compile Include="Migrations\202202261729326_AddedClassificationColumnToVideosTable.designer.cs">
+      <DependentUpon>202202261729326_AddedClassificationColumnToVideosTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203031841009_ChangeVideoTableRelationships.cs" />
+    <Compile Include="Migrations\202203031841009_ChangeVideoTableRelationships.designer.cs">
+      <DependentUpon>202203031841009_ChangeVideoTableRelationships.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203031945175_AddedTagsTable.cs" />
+    <Compile Include="Migrations\202203031945175_AddedTagsTable.designer.cs">
+      <DependentUpon>202203031945175_AddedTagsTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tag.cs" />
+    <Compile Include="Video.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202202261413533_AddGenresAndVideosTables.resx">
+      <DependentUpon>202202261413533_AddGenresAndVideosTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202261507391_PopulatingGenresTable.resx">
+      <DependentUpon>202202261507391_PopulatingGenresTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202261710466_AddVideosData.resx">
+      <DependentUpon>202202261710466_AddVideosData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202261719104_PopulateVideoGenresTable.resx">
+      <DependentUpon>202202261719104_PopulateVideoGenresTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202261724203_EditedVideosOneToManyRelationToGenres.resx">
+      <DependentUpon>202202261724203_EditedVideosOneToManyRelationToGenres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202261729326_AddedClassificationColumnToVideosTable.resx">
+      <DependentUpon>202202261729326_AddedClassificationColumnToVideosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203031841009_ChangeVideoTableRelationships.resx">
+      <DependentUpon>202203031841009_ChangeVideoTableRelationships.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203031945175_AddedTagsTable.resx">
+      <DependentUpon>202203031945175_AddedTagsTable.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

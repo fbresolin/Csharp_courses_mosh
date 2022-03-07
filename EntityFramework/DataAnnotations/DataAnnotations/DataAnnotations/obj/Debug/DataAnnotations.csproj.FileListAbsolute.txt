@@ -1,0 +1,16 @@
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.SuggestedBindingRedirects.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.InitialModel.resources
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\DataAnnotations\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.AddAnnotatiosToCourseTable.resources

@@ -1,0 +1,15 @@
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.SuggestedBindingRedirects.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.InitialModel.resources
+D:\Users\breso\Documents\mosh_course\EntityFramework\FluentAPI\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.cache
