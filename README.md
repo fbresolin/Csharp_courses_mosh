@@ -1,0 +1,2 @@
+-> Complete course (from beginner to advanced) of C# with Mosh Hamedami (codewithmosh.com);
+-> Complete course of Entity Framework 6;
