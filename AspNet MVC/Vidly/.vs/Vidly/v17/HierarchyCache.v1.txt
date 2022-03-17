@@ -1,0 +1,798 @@
+﻿++Solution 'Vidly' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Vidly.sln
+++Vidly
+i:{00000000-0000-0000-0000-000000000000}:Vidly
+++Properties
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\properties\
+++AssemblyInfo.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\properties\assemblyinfo.cs
+++References
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Antlr3.Runtime
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++AutoMapper
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++EntityFramework
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++EntityFramework.SqlServer
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.AspNet.Identity.Core
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.AspNet.Identity.Owin
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.CSharp
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin.Host.SystemWeb
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin.Security
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin.Security.Cookies
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin.Security.Google
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin.Security.MicrosoftAccount
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin.Security.OAuth
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Owin.Security.Twitter
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Microsoft.Web.Infrastructure
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Newtonsoft.Json
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++Owin
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.ComponentModel.DataAnnotations
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Configuration
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Core
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Data
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Data.DataSetExtensions
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Drawing
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.EnterpriseServices
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Net.Http
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Net.Http.Formatting
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Net.Http.WebRequest
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Abstractions
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.ApplicationServices
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.DynamicData
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Entity
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Extensions
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Helpers
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Http
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Http.WebHost
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Mvc
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Optimization
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Razor
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Routing
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.Services
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.WebPages
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.WebPages.Deployment
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Web.WebPages.Razor
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Xml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++System.Xml.Linq
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++WebGrease
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:
+++App_Data
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_data\
+++App_Start
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\
+++BundleConfig.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\filterconfig.cs
+++IdentityConfig.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\identityconfig.cs
+++MappingProfile.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\mappingprofile.cs
+++RouteConfig.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\startup.auth.cs
+++WebApiConfig.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\app_start\webapiconfig.cs
+++Content
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\
+++DataTables
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\
+++css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\
+++images
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\
+++swf
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\swf\
+++bootstrap-lumen.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap-lumen.css
+++bootstrap-theme.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap.css
+++bootstrap.css.map
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap.css.map
+++bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\bootstrap.min.css.map
+++Site.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\site.css
+++Controllers
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\
+++Api
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\api\
+++CustomersController.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\api\customerscontroller.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\customerscontroller.cs
+++MoviesController.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\api\moviescontroller.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\moviescontroller.cs
+++AccountController.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\accountcontroller.cs
+++HomeController.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\homecontroller.cs
+++ManageController.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\controllers\managecontroller.cs
+++Dtos
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\dtos\
+++CustomerDto.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\dtos\customerdto.cs
+++MovieDto.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\dtos\moviedto.cs
+++fonts
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\fonts\
+++Migrations
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\
+++Models
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\
+++AccountViewModels.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\accountviewmodels.cs
+++Customer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\customer.cs
+++Genre.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\genre.cs
+++IdentityModels.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\identitymodels.cs
+++ManageViewModels.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\manageviewmodels.cs
+++MembershipType.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\membershiptype.cs
+++Min18YearsIfAMember.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\min18yearsifamember.cs
+++Movie.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\models\movie.cs
+++Scripts
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\
+++autoFill.bootstrap.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\autofill.bootstrap.js
+++autoFill.bootstrap.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\autofill.bootstrap.min.js
+++autoFill.foundation.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\autofill.foundation.js
+++autoFill.foundation.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\autofill.foundation.min.js
+++autoFill.jqueryui.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\autofill.jqueryui.js
+++autoFill.jqueryui.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\autofill.jqueryui.min.js
+++buttons.bootstrap.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.bootstrap.js
+++buttons.bootstrap.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.bootstrap.min.js
+++buttons.bootstrap4.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.bootstrap4.js
+++buttons.bootstrap4.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.bootstrap4.min.js
+++buttons.colVis.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.colvis.js
+++buttons.colVis.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.colvis.min.js
+++buttons.flash.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.flash.js
+++buttons.flash.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.flash.min.js
+++buttons.foundation.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.foundation.js
+++buttons.foundation.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.foundation.min.js
+++buttons.html5.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.html5.js
+++buttons.html5.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.html5.min.js
+++buttons.jqueryui.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.jqueryui.js
+++buttons.jqueryui.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.jqueryui.min.js
+++buttons.print.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.print.js
+++buttons.print.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\buttons.print.min.js
+++dataTables.autoFill.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.autofill.js
+++dataTables.autoFill.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.autofill.min.js
+++dataTables.bootstrap.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.bootstrap.js
+++dataTables.bootstrap.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.bootstrap.min.js
+++dataTables.bootstrap4.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.bootstrap4.js
+++dataTables.bootstrap4.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.bootstrap4.min.js
+++dataTables.buttons.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.buttons.js
+++dataTables.buttons.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.buttons.min.js
+++dataTables.colReorder.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.colreorder.js
+++dataTables.colReorder.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.colreorder.min.js
+++dataTables.fixedColumns.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.fixedcolumns.js
+++dataTables.fixedColumns.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.fixedcolumns.min.js
+++dataTables.fixedHeader.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.fixedheader.js
+++dataTables.fixedHeader.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.fixedheader.min.js
+++dataTables.foundation.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.foundation.js
+++dataTables.foundation.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.foundation.min.js
+++dataTables.jqueryui.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.jqueryui.js
+++dataTables.jqueryui.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.jqueryui.min.js
+++dataTables.keyTable.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.keytable.js
+++dataTables.keyTable.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.keytable.min.js
+++dataTables.material.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.material.js
+++dataTables.material.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.material.min.js
+++dataTables.responsive.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.responsive.js
+++dataTables.responsive.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.responsive.min.js
+++dataTables.rowReorder.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.rowreorder.js
+++dataTables.rowReorder.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.rowreorder.min.js
+++dataTables.scroller.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.scroller.js
+++dataTables.scroller.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.scroller.min.js
+++dataTables.select.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.select.js
+++dataTables.select.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.select.min.js
+++dataTables.semanticui.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.semanticui.js
+++dataTables.semanticui.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.semanticui.min.js
+++dataTables.uikit.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.uikit.js
+++dataTables.uikit.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\datatables.uikit.min.js
+++jquery.dataTables.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\jquery.datatables.js
+++jquery.dataTables.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\jquery.datatables.min.js
+++responsive.bootstrap.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\responsive.bootstrap.js
+++responsive.bootstrap.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\responsive.bootstrap.min.js
+++responsive.foundation.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\responsive.foundation.js
+++responsive.foundation.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\responsive.foundation.min.js
+++responsive.jqueryui.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\responsive.jqueryui.js
+++responsive.jqueryui.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\datatables\responsive.jqueryui.min.js
+++bootbox.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\bootbox.js
+++bootbox.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\bootbox.min.js
+++bootstrap.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\bootstrap.js
+++bootstrap.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\scripts\modernizr-2.8.3.js
+++ViewModels
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\viewmodels\
+++CustomerFormViewModel.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\viewmodels\customerformviewmodel.cs
+++MovieFormViewModel.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\viewmodels\movieformviewmodel.cs
+++Views
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\
+++Account
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\
+++Customers
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\customers\
+++CustomerForm.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\customers\customerform.cshtml
+++Details.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\customers\details.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\movies\details.cshtml
+++Index.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\customers\index.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\home\index.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\manage\index.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\movies\index.cshtml
+++Home
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\home\
+++About.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\home\about.cshtml
+++Contact.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\home\contact.cshtml
+++Manage
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\manage\
+++AddPhoneNumber.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\manage\addphonenumber.cshtml
+++ChangePassword.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\manage\changepassword.cshtml
+++ManageLogins.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\manage\managelogins.cshtml
+++SetPassword.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\manage\setpassword.cshtml
+++VerifyPhoneNumber.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\manage\verifyphonenumber.cshtml
+++Movies
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\movies\
+++Shared
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\shared\
+++_Layout.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\shared\_loginpartial.cshtml
+++_NavBar.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\shared\_navbar.cshtml
+++Error.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\shared\error.cshtml
+++Lockout.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\shared\lockout.cshtml
+++_ViewStart.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\_viewstart.cshtml
+++Web.config
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\web.config
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\web.config
+++favicon.ico
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\favicon.ico
+++Global.asax
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\global.asax
+++packages.config
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\packages.config
+++Startup.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\startup.cs
+++autoFill.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.bootstrap.css
+++autoFill.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.bootstrap.min.css
+++autoFill.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.datatables.css
+++autoFill.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.datatables.min.css
+++autoFill.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.foundation.css
+++autoFill.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.foundation.min.css
+++autoFill.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.jqueryui.css
+++autoFill.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\autofill.jqueryui.min.css
+++buttons.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.bootstrap.css
+++buttons.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.bootstrap.min.css
+++buttons.bootstrap4.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.bootstrap4.css
+++buttons.bootstrap4.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.bootstrap4.min.css
+++buttons.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.datatables.css
+++buttons.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.datatables.min.css
+++buttons.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.foundation.css
+++buttons.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.foundation.min.css
+++buttons.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.jqueryui.css
+++buttons.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\buttons.jqueryui.min.css
+++colReorder.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.bootstrap.css
+++colReorder.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.bootstrap.min.css
+++colReorder.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.datatables.css
+++colReorder.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.datatables.min.css
+++colReorder.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.foundation.css
+++colReorder.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.foundation.min.css
+++colReorder.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.jqueryui.css
+++colReorder.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\colreorder.jqueryui.min.css
+++common.scss
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\common.scss
+++dataTables.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.bootstrap.css
+++dataTables.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.bootstrap.min.css
+++dataTables.bootstrap4.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.bootstrap4.css
+++dataTables.bootstrap4.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.bootstrap4.min.css
+++dataTables.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.foundation.css
+++dataTables.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.foundation.min.css
+++dataTables.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.jqueryui.css
+++dataTables.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.jqueryui.min.css
+++dataTables.material.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.material.css
+++dataTables.material.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.material.min.css
+++dataTables.semanticui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.semanticui.css
+++dataTables.semanticui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.semanticui.min.css
+++dataTables.uikit.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.uikit.css
+++dataTables.uikit.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\datatables.uikit.min.css
+++fixedColumns.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.bootstrap.css
+++fixedColumns.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.bootstrap.min.css
+++fixedColumns.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.datatables.css
+++fixedColumns.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.datatables.min.css
+++fixedColumns.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.foundation.css
+++fixedColumns.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.foundation.min.css
+++fixedColumns.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.jqueryui.css
+++fixedColumns.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedcolumns.jqueryui.min.css
+++fixedHeader.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.bootstrap.css
+++fixedHeader.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.bootstrap.min.css
+++fixedHeader.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.datatables.css
+++fixedHeader.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.datatables.min.css
+++fixedHeader.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.foundation.css
+++fixedHeader.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.foundation.min.css
+++fixedHeader.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.jqueryui.css
+++fixedHeader.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\fixedheader.jqueryui.min.css
+++jquery.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\jquery.datatables.css
+++jquery.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\jquery.datatables.min.css
+++jquery.dataTables_themeroller.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\jquery.datatables_themeroller.css
+++keyTable.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.bootstrap.css
+++keyTable.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.bootstrap.min.css
+++keyTable.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.datatables.css
+++keyTable.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.datatables.min.css
+++keyTable.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.foundation.css
+++keyTable.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.foundation.min.css
+++keyTable.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.jqueryui.css
+++keyTable.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\keytable.jqueryui.min.css
+++mixins.scss
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\mixins.scss
+++responsive.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.bootstrap.css
+++responsive.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.bootstrap.min.css
+++responsive.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.datatables.css
+++responsive.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.datatables.min.css
+++responsive.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.foundation.css
+++responsive.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.foundation.min.css
+++responsive.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.jqueryui.css
+++responsive.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\responsive.jqueryui.min.css
+++rowReorder.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.bootstrap.css
+++rowReorder.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.bootstrap.min.css
+++rowReorder.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.datatables.css
+++rowReorder.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.datatables.min.css
+++rowReorder.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.foundation.css
+++rowReorder.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.foundation.min.css
+++rowReorder.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.jqueryui.css
+++rowReorder.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\rowreorder.jqueryui.min.css
+++scroller.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.bootstrap.css
+++scroller.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.bootstrap.min.css
+++scroller.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.datatables.css
+++scroller.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.datatables.min.css
+++scroller.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.foundation.css
+++scroller.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.foundation.min.css
+++scroller.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.jqueryui.css
+++scroller.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\scroller.jqueryui.min.css
+++select.bootstrap.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.bootstrap.css
+++select.bootstrap.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.bootstrap.min.css
+++select.dataTables.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.datatables.css
+++select.dataTables.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.datatables.min.css
+++select.foundation.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.foundation.css
+++select.foundation.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.foundation.min.css
+++select.jqueryui.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.jqueryui.css
+++select.jqueryui.min.css
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\css\select.jqueryui.min.css
+++details_close.png
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\details_close.png
+++details_open.png
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\details_open.png
+++sort_asc.png
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\sort_asc.png
+++sort_asc_disabled.png
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\sort_asc_disabled.png
+++sort_both.png
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\sort_both.png
+++sort_desc.png
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\sort_desc.png
+++sort_desc_disabled.png
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\images\sort_desc_disabled.png
+++flashExport.swf
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\content\datatables\swf\flashexport.swf
+++glyphicons-halflings-regular.eot
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\fonts\glyphicons-halflings-regular.woff2
+++202203141921361_InitialModel.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203141921361_initialmodel.cs
+++202203142003110_AddIsSubscribedToCustomer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142003110_addissubscribedtocustomer.cs
+++202203142008269_AddedMembershipType.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142008269_addedmembershiptype.cs
+++202203142010372_PopulateMembershipTypes.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142010372_populatemembershiptypes.cs
+++202203142026263_ApplyAnnotationToCustomerName.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142026263_applyannotationtocustomername.cs
+++202203142241012_AddedNameToMembershipType.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142241012_addednametomembershiptype.cs
+++202203142245007_AddMembershipTypeName.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142245007_addmembershiptypename.cs
+++202203142254343_AddBirthDateToCustomer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142254343_addbirthdatetocustomer.cs
+++202203151126112_AddedMovieTable.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151126112_addedmovietable.cs
+++202203151128257_AddedGenresToMovie.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151128257_addedgenrestomovie.cs
+++202203151130052_PopulateGenreTable.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151130052_populategenretable.cs
+++202203151308368_UpdateMembershipTypeEntries.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151308368_updatemembershiptypeentries.cs
+++202203151424301_AddGenreIdToMovies.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151424301_addgenreidtomovies.cs
+++202203161434229_AddRequiredAnnotationToNameInMovies.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203161434229_addrequiredannotationtonameinmovies.cs
+++Configuration.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\configuration.cs
+++_ExternalLoginsListPartial.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\_externalloginslistpartial.cshtml
+++ConfirmEmail.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\confirmemail.cshtml
+++ExternalLoginConfirmation.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\externalloginconfirmation.cshtml
+++ExternalLoginFailure.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\externalloginfailure.cshtml
+++ForgotPassword.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\forgotpasswordconfirmation.cshtml
+++Login.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\login.cshtml
+++Register.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\register.cshtml
+++ResetPassword.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\resetpasswordconfirmation.cshtml
+++SendCode.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\sendcode.cshtml
+++VerifyCode.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\account\verifycode.cshtml
+++MovieForm.cshtml
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\views\movies\movieform.cshtml
+++Global.asax.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\global.asax.cs
+++Web.Debug.config
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\web.debug.config
+++Web.Release.config
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\web.release.config
+++202203141921361_InitialModel.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203141921361_initialmodel.designer.cs
+++202203141921361_InitialModel.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203141921361_initialmodel.resx
+++202203142003110_AddIsSubscribedToCustomer.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142003110_addissubscribedtocustomer.designer.cs
+++202203142003110_AddIsSubscribedToCustomer.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142003110_addissubscribedtocustomer.resx
+++202203142008269_AddedMembershipType.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142008269_addedmembershiptype.designer.cs
+++202203142008269_AddedMembershipType.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142008269_addedmembershiptype.resx
+++202203142010372_PopulateMembershipTypes.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142010372_populatemembershiptypes.designer.cs
+++202203142010372_PopulateMembershipTypes.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142010372_populatemembershiptypes.resx
+++202203142026263_ApplyAnnotationToCustomerName.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142026263_applyannotationtocustomername.designer.cs
+++202203142026263_ApplyAnnotationToCustomerName.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142026263_applyannotationtocustomername.resx
+++202203142241012_AddedNameToMembershipType.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142241012_addednametomembershiptype.designer.cs
+++202203142241012_AddedNameToMembershipType.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142241012_addednametomembershiptype.resx
+++202203142245007_AddMembershipTypeName.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142245007_addmembershiptypename.designer.cs
+++202203142245007_AddMembershipTypeName.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142245007_addmembershiptypename.resx
+++202203142254343_AddBirthDateToCustomer.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142254343_addbirthdatetocustomer.designer.cs
+++202203142254343_AddBirthDateToCustomer.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203142254343_addbirthdatetocustomer.resx
+++202203151126112_AddedMovieTable.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151126112_addedmovietable.designer.cs
+++202203151126112_AddedMovieTable.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151126112_addedmovietable.resx
+++202203151128257_AddedGenresToMovie.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151128257_addedgenrestomovie.designer.cs
+++202203151128257_AddedGenresToMovie.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151128257_addedgenrestomovie.resx
+++202203151130052_PopulateGenreTable.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151130052_populategenretable.designer.cs
+++202203151130052_PopulateGenreTable.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151130052_populategenretable.resx
+++202203151308368_UpdateMembershipTypeEntries.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151308368_updatemembershiptypeentries.designer.cs
+++202203151308368_UpdateMembershipTypeEntries.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151308368_updatemembershiptypeentries.resx
+++202203151424301_AddGenreIdToMovies.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151424301_addgenreidtomovies.designer.cs
+++202203151424301_AddGenreIdToMovies.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203151424301_addgenreidtomovies.resx
+++202203161434229_AddRequiredAnnotationToNameInMovies.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203161434229_addrequiredannotationtonameinmovies.designer.cs
+++202203161434229_AddRequiredAnnotationToNameInMovies.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203161434229_addrequiredannotationtonameinmovies.resx
+++MembershipTypeDto.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\dtos\membershiptypedto.cs
+++GenreDto.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\dtos\genredto.cs
+++202203171632383_RandomChangesOnIds.cs
+++202203171632383_RandomChangesOnIds.designer.cs
+++202203171632383_RandomChangesOnIds.resx
+++202203171646360_RevertedSomeFailedChangesOnIds.cs
+++202203171646360_RevertedSomeFailedChangesOnIds.designer.cs
+++202203171646360_RevertedSomeFailedChangesOnIds.resx
+++202203171659161_RevertedSomeFailedChangesOnIds.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203171659161_revertedsomefailedchangesonids.cs
+++202203171659161_RevertedSomeFailedChangesOnIds.designer.cs
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203171659161_revertedsomefailedchangesonids.designer.cs
+++202203171659161_RevertedSomeFailedChangesOnIds.resx
+i:{16fe6693-36a8-4e0d-988e-7d8b80b0dff2}:d:\users\breso\documents\mosh_course\aspnet mvc\vidly\vidly\migrations\202203171659161_revertedsomefailedchangesonids.resx
